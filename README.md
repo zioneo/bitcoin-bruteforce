@@ -11,12 +11,4 @@ Code generates bitcoin addresses, starts with 1 so data.txt should be including 
 
 This is made for fun
 
-Wanna tip
 
-BTC: 17desBvzt7jhmUbq8NgB15qHpJMoGEabTo
-
-ETH: 0x8bDd21804B9d70052E2f1e46D3618302f07976C3
-
-XRP: raXt42meREz9EQbfYugcViH2bvEAuc5QJx
-
-NEO: AYv1hQGxg9SZTXjoqaU8LsrjMtUfsC32Vo
